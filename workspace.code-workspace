@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\veterinaria-fullstack"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "veterinaria"
+	}
+}
